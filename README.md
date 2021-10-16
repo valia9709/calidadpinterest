@@ -6,7 +6,7 @@ Pinterest es una plataforma que permite a los usuarios crear y administrar, en t
 
 ![image](https://user-images.githubusercontent.com/52264444/137560982-e6e5ac93-6178-4817-be01-8c4f28480b96.png)
 
-PROTOTIPOS
+PROTOTIPOS <br>
 ![137551260-2383f4aa-f3f9-44c1-8f74-75f775b4b9a4](https://user-images.githubusercontent.com/52264444/137568950-c8042b47-0563-4eca-9d88-0204fc8036a1.png)
 ![137552448-7fb39c09-6ead-41a5-b5a7-b1a77e54954a](https://user-images.githubusercontent.com/52264444/137568953-e59b0165-9a07-4b40-9519-4895cee9ca6b.png)
 ![137555775-982beb0e-bc38-4c58-b7f5-3b4379b527cd](https://user-images.githubusercontent.com/52264444/137568969-ee8388bf-a824-4578-af4a-f15cfa23f1c9.png)
