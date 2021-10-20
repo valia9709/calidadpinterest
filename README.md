@@ -1,6 +1,7 @@
-# calidadpinterest
+# Calidad Pinterest
 
 SOFTWARE : PINTEREST
+![image](https://user-images.githubusercontent.com/52264444/138013318-be91e4e0-feb0-4a7b-a40e-203d041ebc78.png)
 
 Pinterest es una plataforma que permite a los usuarios crear y administrar, en tableros personales temáticos, colecciones de imágenes como eventos, intereses, aficiones y mucho más. Los usuarios pueden buscar otros pinboards, "repinchar" imágenes para sus propias colecciones.
 
